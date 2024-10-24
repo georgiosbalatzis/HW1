@@ -1,0 +1,14 @@
+/Users/giorgos/RiderProjects/CalculatorApp/bin/Debug/net8.0/CalculatorApp
+/Users/giorgos/RiderProjects/CalculatorApp/bin/Debug/net8.0/CalculatorApp.deps.json
+/Users/giorgos/RiderProjects/CalculatorApp/bin/Debug/net8.0/CalculatorApp.runtimeconfig.json
+/Users/giorgos/RiderProjects/CalculatorApp/bin/Debug/net8.0/CalculatorApp.dll
+/Users/giorgos/RiderProjects/CalculatorApp/bin/Debug/net8.0/CalculatorApp.pdb
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/CalculatorApp.AssemblyInfo.cs
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/CalculatorApp.dll
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/refint/CalculatorApp.dll
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/CalculatorApp.pdb
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/CalculatorApp.genruntimeconfig.cache
+/Users/giorgos/RiderProjects/CalculatorApp/obj/Debug/net8.0/ref/CalculatorApp.dll
